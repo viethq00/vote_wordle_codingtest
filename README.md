@@ -1,4 +1,4 @@
-# vote_wordle_codingtest
+# votee_wordle_codingtest
 
 1. To run the project, extract the zip file.
 2. Open the code in any IDE.
